@@ -14,8 +14,15 @@ This was my first project in Java, having just been introduced to it at universi
 ### Example commands
 
 ```
-
-
+move <direction>
+look
+look <feature>
+inventory
+score
+map
+help
+quit
+feed dog ...
 ```
 
 ## Video showcase
