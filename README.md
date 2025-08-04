@@ -14,23 +14,13 @@ This was my first project in Java, having just been introduced to it at universi
 ### Example commands
 
 ```
-create file
-copy file
-delete file
-show file
-append line
-delete line
-insert line
-show line
-show change log
-show number of lines
-create dir
-duplicate line
-help
-quit
+
 
 ```
 
 ## Video showcase
 
-**Follow the link for my video submission** https://drive.google.com/file/d/1VWmC39yyItBZ9u1kCqv8wCNfdfW6w-0H/view?usp=drive_link
+**Follow the link for my video submission** 
+
+This includes all commands, additional features and examples of my code.
+https://drive.google.com/file/d/1VWmC39yyItBZ9u1kCqv8wCNfdfW6w-0H/view?usp=drive_link
